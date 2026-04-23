@@ -1,3 +1,4 @@
+//Added routing logic using react router
 import { Routes, Route } from 'react-router-dom';
 import Layout from './components/Layout';
 import Home from './pages/Home';
