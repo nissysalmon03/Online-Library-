@@ -1,3 +1,4 @@
+//Created Home page structure 
 export default function Home() {
   return (
     <div className="page">
