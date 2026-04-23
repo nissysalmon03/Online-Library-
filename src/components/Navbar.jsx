@@ -1,3 +1,4 @@
+//Nav bar for navigation links  
 import { Link, NavLink } from 'react-router-dom';
 import { BookOpen } from 'lucide-react';
 import './Navbar.css';
