@@ -1,3 +1,4 @@
+//Implemented BrowseBooks page
 export default function BrowseBooks() {
   return (
     <div className="page">
